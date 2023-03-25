@@ -1,10 +1,10 @@
 # AI-WaitList
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > Look, there is an new AI released; Let's see when it will finished :)
 
-Please submit a PR or raise an issue to add new WAITLIST
+Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ## AI Products
 
