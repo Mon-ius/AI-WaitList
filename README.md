@@ -27,7 +27,11 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ### Adobe
 
-- [Adobe Firefly](https://firefly.adobe.com/) 🤡 Link: https://firefly.adobe.com
+- [Adobe Firefly](https://firefly.adobe.com) 🤡 Link: https://firefly.adobe.com
+
+### Uizard
+
+- [Autodesigner](https://uizard.io/autodesigner/db1563df) 🤡 Link: https://uizard.io/autodesigner/db1563df
 
 ## Credits
 
