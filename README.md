@@ -33,6 +33,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 - [Autodesigner](https://uizard.io/autodesigner/db1563df) 🤡 Link: https://uizard.io/autodesigner/db1563df
 
+### Spline
+
+- [Spline-design](https://spline.design/ai ) 🤡 Link: https://spline.design/ai 
+
 ## Credits
 
 - [waitlist.wtf](https://waitlist.wtf)
