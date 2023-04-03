@@ -20,6 +20,7 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 - [Copilot for CLI](https://githubnext.com/projects/copilot-cli) 🤡 Link: https://githubnext.com/projects/copilot-cli
 - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs) 🤡 Link: https://githubnext.com/projects/copilot-for-docs
 - [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests) 🤡 Link: https://githubnext.com/projects/copilot-for-pull-requests
+- [Security Copilot](https://go.microsoft.com/fwlink/p/?linkid=2228824&clcid=0x809&culture=en-gb&country=gb) 🛡️ Link: https://go.microsoft.com/fwlink/p/?linkid=2228824&clcid=0x809&culture=en-gb&country=gb
 
 ### Google
 
