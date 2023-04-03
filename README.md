@@ -38,6 +38,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 - [Spline-design](https://spline.design/ai ) 🤡 Link: https://spline.design/ai 
 
+### Visily
+
+- [Visily-ai](https://www.visily.ai) 🪡 Link: https://www.visily.ai
+
 ## Credits
 
 - [waitlist.wtf](https://waitlist.wtf)
