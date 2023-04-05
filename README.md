@@ -8,10 +8,18 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ## AI Products
 
+### Meta
+
+- [LLaMa](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) 😈 Link: https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform
+
 ### OPENAI
 
 - [GPT-4](https://openai.com/waitlist/gpt-4-api) 🤡 Link: https://openai.com/waitlist/gpt-4-api
 - [ChatGPT-Plugin](https://openai.com/waitlist/plugins) 🤡 Link: https://openai.com/waitlist/plugins
+
+### Anthropic
+
+- [Claude](https://www.anthropic.com/earlyaccess) 🤡 Link: https://www.anthropic.com/earlyaccess
 
 ### GitHub
 
@@ -24,7 +32,8 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ### Google
 
-- [Bard](https://bard.google.com) 🤡 Link: https://bard.google.com
+- [Bard](https://bard.google.com) ✨ Link: https://bard.google.com
+- [Vertex-Al](https://cloud.google.com/ai/earlyaccess/join) 🤡 Link: https://cloud.google.com/ai/earlyaccess/join
 
 ### Adobe
 
@@ -41,6 +50,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 ### Visily
 
 - [Visily-ai](https://www.visily.ai) 🪡 Link: https://www.visily.ai
+
+### AIOOTD
+
+- [Aiootd-ai](https://www.aiootd.com) 👗 Link: https://www.aiootd.com
 
 ## Credits
 
