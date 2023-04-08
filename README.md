@@ -39,6 +39,14 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 - [Adobe Firefly](https://firefly.adobe.com) 🤡 Link: https://firefly.adobe.com
 
+### Jina-AI
+
+- [Scenex](https://scenex.jina.ai/scenes) 🤡 Link: https://scenex.jina.ai/scenes
+
+### Gamma
+
+- [Gamma-PPT](https://gamma.app/signup?r=h9qnk0kiioe7n42) 🤡 Link: https://gamma.app/signup?r=h9qnk0kiioe7n42
+
 ### Uizard
 
 - [Autodesigner](https://uizard.io/autodesigner/db1563df) 🤡 Link: https://uizard.io/autodesigner/db1563df
