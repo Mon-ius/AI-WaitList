@@ -8,6 +8,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ## AI Products
 
+### Modular
+
+- [Mojo](https://www.modular.com/get-started) 🤡 Link: <https://www.modular.com/get-started>
+
 ### Meta
 
 - [LLaMa](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) 😈 Link: https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform
