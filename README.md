@@ -14,6 +14,7 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ### Stability AI
 
+- [Stable Doodle](https://clipdrop.co/stable-doodle) 🎨 Link: <https://clipdrop.co/stable-doodle>
 - [Stable Animation](https://beta.dreamstudio.ai) 🎨 Link: <https://beta.dreamstudio.ai>
 
 ### Meta
