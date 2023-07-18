@@ -29,6 +29,7 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ### Anthropic
 
+- [Claude2.0](https://claude.ai) 🤡🤡 Link: <https://claude.ai>
 - [Claude](https://www.anthropic.com/earlyaccess) 🤡 Link: https://www.anthropic.com/earlyaccess
 
 ### GitHub
