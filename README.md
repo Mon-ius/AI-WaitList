@@ -49,6 +49,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 - [Bard](https://bard.google.com) ✨ Link: <https://bard.google.com>
 - [Vertex-Al](https://cloud.google.com/ai/earlyaccess/join) 🤡 Link: https://cloud.google.com/ai/earlyaccess/join
 
+### BentoML
+
+- [OpenLLM](https://github.com/bentoml/OpenLLM) 🦾 Link: <https://bentoml.com/>
+
 ### Adobe
 
 - [Adobe Firefly](https://firefly.adobe.com) 🤡 Link: https://firefly.adobe.com
