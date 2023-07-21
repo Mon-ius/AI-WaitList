@@ -44,7 +44,8 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ### Google
 
-- [Search-Lab](https://workspace.google.com/labs-sign-up/) 🤡 Link: <https://workspace.google.com/labs-sign-up/>
+- [NotebookLM](https://notebooklm.google.com/signup) 🤡 Link: <https://notebooklm.google.com/signup>
+- [Search-Lab](https://workspace.google.com/labs-sign-up) 🤡 Link: <https://workspace.google.com/labs-sign-up>
 - [AI-Test-Kitchen](https://aitestkitchen.withgoogle.com/signup) 🎵 Link: <https://aitestkitchen.withgoogle.com/signup>
 - [Bard](https://bard.google.com) ✨ Link: <https://bard.google.com>
 - [Vertex-Al](https://cloud.google.com/ai/earlyaccess/join) 🤡 Link: https://cloud.google.com/ai/earlyaccess/join
