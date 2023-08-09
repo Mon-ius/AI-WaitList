@@ -44,6 +44,7 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ### Google
 
+- [Project-IDX](https://idx.dev) 🤡 Link: <https://idx.dev>
 - [NotebookLM](https://notebooklm.google.com/signup) 🤡 Link: <https://notebooklm.google.com/signup>
 - [Search-Lab](https://workspace.google.com/labs-sign-up) 🤡 Link: <https://workspace.google.com/labs-sign-up>
 - [AI-Test-Kitchen](https://aitestkitchen.withgoogle.com/signup) 🎵 Link: <https://aitestkitchen.withgoogle.com/signup>
