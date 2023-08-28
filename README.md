@@ -19,7 +19,7 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 ### Meta
 
-- [LLaMa2.0](https://ai.meta.com/resources/models-and-libraries/llama-downloads) 😈😈 Link: <https://ai.meta.com/resources/models-and-libraries/llama-downloads>
+- [Code/LLaMa2.0](https://ai.meta.com/resources/models-and-libraries/llama-downloads) 😈😈 Link: <https://ai.meta.com/resources/models-and-libraries/llama-downloads>
 
 - [LLaMa](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) 😈 Link: https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform
 
