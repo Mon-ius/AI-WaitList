@@ -12,6 +12,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 - [Mojo](https://www.modular.com/get-started) 🤡 Link: <https://www.modular.com/get-started>
 
+### Ideogram AI
+
+- [Ideogram](ideogram.ai) 🎨 Link: <https://ideogram.ai/waitlist>
+
 ### Stability AI
 
 - [Stable Doodle](https://clipdrop.co/stable-doodle) 🎨 Link: <https://clipdrop.co/stable-doodle>
