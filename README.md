@@ -12,6 +12,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 - [Mojo](https://www.modular.com/get-started) 🤡 Link: <https://www.modular.com/get-started>
 
+### Vercel
+
+- [V0](v0.dev) 🔺 Link: <https://v0.dev/>
+
 ### Ideogram AI
 
 - [Ideogram](ideogram.ai) 🎨 Link: <https://ideogram.ai/waitlist>
