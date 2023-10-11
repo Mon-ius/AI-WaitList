@@ -91,6 +91,10 @@ Submit a PR, or raise an issue to add new AI product in WAITLIST !!!
 
 - [Aiootd-ai](https://www.aiootd.com) 👗 Link: <https://www.aiootd.com>
 
+### CIVIT-AI
+
+- [civitai](https://civitai.com/) 😈 Link: <https://civitai.com>
+
 ## Credits
 
 - [waitlist.wtf](https://waitlist.wtf)
